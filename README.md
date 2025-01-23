@@ -1,4 +1,5 @@
-<h1>Naruto - Jogo do Número Secreto<h1/>
+<h1>Naruto - Jogo do Número Secreto</h1>
+<br>
 Bem-vindo ao Jogo do Número Secreto baseado no universo de Naruto! Teste suas habilidades de shinobi e adivinhe o número secreto. Boa sorte, jovem ninja!
 
 Descrição do Jogo
