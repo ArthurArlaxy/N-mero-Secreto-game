@@ -17,13 +17,13 @@ function alterarElementosPagina(tag, texto) {
 
 function textoInicial(){
     alterarElementosPagina('h1', 'Jogo do número secreto');
-    alterarElementosPagina('p', `Escolha um número de 0 a 10`);
+    alterarElementosPagina('p', `Escolha um número de 0 a 100`);
 }
 
 textoInicial()
 
 function numeroSecreto(){
-    let numeroEscolhido  = parseInt(Math.random() * 10 + 1);
+    let numeroEscolhido  = parseInt(Math.random() * 100 + 1);
     let tamanhoDaLista = listaNumerosSorteados.length
 
     if (tamanhoDaLista == 2){
